@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+----------------------------------
+Paathashaala Basic Features
+----------------------------------
 
-You can use the [editor on GitHub](https://github.com/ideainaction/ideainaction.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- Student Enrollment
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Teachers Registration
 
-### Markdown
+- Class Scheduling
+	- Integarted with Google Calendar/OS Cal
+	- Rescheduling/Cancel
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Online Class (Video: One-to-Many) 
+	- Recording
+	- Marking Attendence/Classes/Topic Covered
+	- Sharing Screen
 
-```markdown
-Syntax highlighted code block
+- PT Meetings(Video: One-to-One| One-to Many)
+	- Recording
+	- MoM Mail 
+	- Sharing Screen
 
-# Header 1
-## Header 2
-### Header 3
+- Online Assessment:
+	- Online Answer Sheet Scanning
+	- Evaluation
+	- Results
 
-- Bulleted
-- List
+- LMS
+	- Hosting Learning Materials(Scan from Mobile or web cam and store as image/pdf/html)
 
-1. Numbered
-2. List
+- Chatting(B/w Classmates and Teachers)
+	- One on One Chat
+	- Voice call
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+- Notifications
+	- App Notifications
+	- Mail/Mobile/WhatsApp/Telegram
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Report Generations
+	- Attendance Report
+	- All Kinds of Reports
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ideainaction/ideainaction.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+----------------------------------
+Security
+----------------------------------
+- Authentication and Authorization
+	- Admins will have access to all resource
+	- Students can access only resoulces respective to their class or individuals like: Progress Report/Session Attended, etc..
 
-### Support or Contact
+- Privacy of Users Data
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Request/response Encoding
+
+
+
+
