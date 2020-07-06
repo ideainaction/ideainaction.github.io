@@ -8,14 +8,17 @@
 	- Integarted with Google Calendar/OS Cal
 	- Rescheduling/Cancel
     
-- Online Class (Video: One-to-Many) 
+- Online Class (Video/Voice) 
+	- One-to-Many or One-on-One 
 	- Recording
 	- Marking Attendence/Classes/Topic Covered
 	- Sharing Screen
+    - MoM (Transcripts or Kind of Speechnotes)
     
-- PT Meetings (Video: One-to-One, One-to Many)
+- PT Meetings (Video/Voice)
+	- One-to-Many or One-on-One
 	- Recording
-	- MoM Mail 
+	- MoM Mail (Transcripts or Kind of Speechnotes)
 	- Sharing Screen
 
 - Online Assessment
