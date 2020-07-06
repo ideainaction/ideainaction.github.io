@@ -1,6 +1,5 @@
-----------------------------------
 Paathashaala Basic Features
-----------------------------------
+-------------------------------
 
 - Student Enrollment
 
@@ -15,7 +14,7 @@ Paathashaala Basic Features
 	- Marking Attendence/Classes/Topic Covered
 	- Sharing Screen
 
-- PT Meetings(Video: One-to-One| One-to Many)
+- PT Meetings (Video: One-to-One | One-to Many)
 	- Recording
 	- MoM Mail 
 	- Sharing Screen
@@ -42,7 +41,6 @@ Paathashaala Basic Features
 	- All Kinds of Reports
 
 
-----------------------------------
 Security
 ----------------------------------
 - Authentication and Authorization
