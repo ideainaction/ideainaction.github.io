@@ -52,7 +52,3 @@ Security
 - Privacy of Users Data
 
 - Request/response Encoding
-
-
-
-
