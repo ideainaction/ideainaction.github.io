@@ -1,1 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 theme: jekyll-theme-cayman
+title: [Paathashaala]
+description: [An application that providied facility for E-Learning/Schooling facility from home]
