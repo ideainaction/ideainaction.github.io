@@ -1,4 +1,5 @@
-## Paathashaala Basic Features
+---
+## Basic Features
 
 - Student Enrollment
 
@@ -41,6 +42,10 @@
 	- Attendance Report
 	- All Kinds of Reports
 
+- Course Fee
+	- Integration with Payment Service Like PayPal/UPI/PayU..
+
+------
 
 ## Security
 
