@@ -1,3 +1,13 @@
+---
+title: '["Paathashaala"]'
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 theme: jekyll-theme-cayman
-title: [Paathashaala]
-description: [An application that providied facility for E-Learning/Schooling facility from home]
+description:
+- An application that providied facility for E-Learning/Schooling facility from home
